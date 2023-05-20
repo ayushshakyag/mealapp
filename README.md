@@ -1,4 +1,4 @@
-Meal App
+<h1>Meal App</h1>
 Meal App is a web application that allows users to search for meals and save their favorite recipes. Users can find a variety of meals by entering keywords in the search bar, and the app will display a list of meals that match the search query. Users can also view detailed information about each meal and watch instructional videos.
 
 Features
