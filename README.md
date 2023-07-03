@@ -30,6 +30,3 @@ Usage
 
 Contributing
 Contributions to the Meal App are welcome! If you find any bugs or have suggestions for improvements, please create an issue or submit a pull request on the GitHub repository.
-
-License
-The Meal App is open-source software licensed under the MIT license. Feel free to use, modify, and distribute the app according to the terms of the license.
